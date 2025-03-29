@@ -1,8 +1,6 @@
 # VERSION CONTROL
 
-
 ## What is Version Control?
-
 
 - It is a tool that manages the changes made to the files and directories of any project.
 - It allows used to keep track of what you did and when, undo any changes you made that you didn’t want, and collaborate at scale with others in a project.
@@ -13,8 +11,6 @@
 - Combines different versions of files.
 - Identify a particular version
 - Revert the changes
-
-
 
 **Basic definition**
 - **Local repo or repository**: A repository that is stored on your computer.
@@ -33,5 +29,5 @@
 - **HEAD~n syntax**: Used to refer to older commits (e.g. HEAD~2 refers to the second-to-last commit).
 
 
-
 recergjh vhghjjjn njhyijn
+
