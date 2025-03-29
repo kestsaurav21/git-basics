@@ -3,7 +3,7 @@
 ## What is Version Control?
 
 - It is a tool that manages the changes made to the files and directories of any project.
-- It allows used to keep track of what you did and when, undo any changes you made that you didn’t want, and collaborate at scale with others in a project.
+- It allows used to keep track of what you did and when, undo any changes you made that you didn’t want, and collaborate at scale with others in a pr
 
 ## What can Version Control do?
 
